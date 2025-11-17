@@ -1,5 +1,5 @@
 streamlit
-numpy
+numpy==1.26.4
 pandas
 matplotlib
 seaborn
@@ -7,5 +7,5 @@ scikit-learn
 scikeras
 imbalanced-learn
 ucimlrepo
-torch==2.2.0+cpu
-tensorflow==2.15.0
+tensorflow-cpu==2.14.0
+torch==2.1.0
